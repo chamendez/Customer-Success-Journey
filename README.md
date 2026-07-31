@@ -1,1 +1,11 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>LACE Customer Journey</title><link rel="stylesheet" href="css/styles.css"></head><body><header><h1>Customer Success Journey</h1><p>LACE Model</p></header><div class="progress"><div id="bar"></div></div><div class="stages"><button onclick="show(25,'LAND')">LAND</button><button onclick="show(50,'ADOPT')">ADOPT</button><button onclick="show(75,'CONSUME')">CONSUME</button><button onclick="show(100,'EXPAND & RENEW')">EXPAND & RENEW</button></div><div id="content">Select a stage.</div><script src="js/app.js"></script></body></html>
+# Customer Success Journey
+
+Live GitHub Pages application built from a hand-drawn journey map.
+
+Features:
+- LACE Framework
+- Interactive walkthrough
+- Progress tracking
+- Renewal journey
+
+Live URL: https://chamendez.github.io/Customer-Success-Journey/

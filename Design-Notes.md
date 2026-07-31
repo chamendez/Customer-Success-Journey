@@ -1,1 +1,1 @@
-Built from customer journey sketch and process brief.
+Includes recommendations, welcome banner, and GitHub deployment notes.
