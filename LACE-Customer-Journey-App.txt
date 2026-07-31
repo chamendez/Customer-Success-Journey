@@ -1,0 +1,11 @@
+LACE-Customer-Journey-App/
+│
+├── index.html
+├── css/
+│   └── styles.css
+├── js/
+│   └── app.js
+├── assets/
+│   └── README.md
+└── docs/
+    └── Design-Notes.md
